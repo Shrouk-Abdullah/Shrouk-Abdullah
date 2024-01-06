@@ -1,4 +1,4 @@
-# Hi there! I'm Shrouk 👋
+<!-- # Hi there! I'm Shrouk 👋
 <!--
 **Shrouk-Abdullah/Shrouk-Abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://profile-readme-generator.com/
@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <img src="photo_2024-01-06_11-32-34.jpg" alt="drawing" style="width:500px;"/>
+<!--   ![alt text](https://github.com/Shrouk-Abdullah/Shrouk-Abdullah/blob/main/photo_2024-01-06_11-32-34.jpg) -->
+
 </p>
 
-![alt text](https://github.com/Shrouk-Abdullah/Shrouk-Abdullah/blob/main/photo_2024-01-06_11-32-34.jpg)
 
 ###
 ## About Me
