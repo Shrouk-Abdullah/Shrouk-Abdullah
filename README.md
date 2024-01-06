@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="photo_2024-01-06_11-32-34.jpg" alt="drawing" style="width:500px;"/>
+<img src="photo_2024-01-06_11-32-34.jpg" alt="drawing" style="width:250px;"/>
 <!--   ![alt text](https://github.com/Shrouk-Abdullah/Shrouk-Abdullah/blob/main/photo_2024-01-06_11-32-34.jpg) -->
 
 </p>
