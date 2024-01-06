@@ -16,7 +16,17 @@ Here are some ideas to get you started:
 
 
 ###
-
+## About Me
+<p>
+<p>
+  I am a versatile software engineer with a strong foundation in both frontend and backend development. My expertise spans a range of technologies, including <strong>React</strong>, <strong>Node.js</strong>, <strong>Elixir</strong>, and <strong>MongoDB</strong>.
+  <br><br>
+<!--   On the frontend, I specialize in creating engaging and user-friendly interfaces using modern frameworks such as <strong>React</strong> and <strong>Vue.js</strong>. Simultaneously, my backend proficiency encompasses technologies like <strong>Node.js</strong> and <strong>Express.js</strong>, enabling me to architect scalable and efficient server-side systems.
+  <br><br>
+  I am well-versed in integrating third-party APIs, supporting both <strong>SOAP</strong> and <strong>REST</strong> paradigms. Whether working with monolithic or microservices architectures, I have hands-on experience in designing and optimizing APIs to meet the diverse needs of web applications.
+  <br><br>
+  My passion for software engineering extends beyond specific technologies, as I am dedicated to continuous learning and staying abreast of industry trends. I thrive in collaborative environments, contributing to cross-functional teams to deliver innovative and impactful software solutions. -->
+</p>
 <div align="center">
 <!--   <a href="https://www.linkedin.com/in/shrouk-abdullah-797bb620a/" target="_blank" style="text-decoration: none !important;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -72,11 +82,7 @@ Here are some ideas to get you started:
 
 ###
 ###
-## About Me
-<p>
-<p>
-  I am a versatile software engineer with a strong foundation in both frontend and backend development. My expertise spans a range of technologies, including <strong>React</strong>, <strong>Node.js</strong>, <strong>Elixir</strong>, and <strong>MongoDB</strong>.
-  <br><br>
+
 <!--   On the frontend, I specialize in creating engaging and user-friendly interfaces using modern frameworks such as <strong>React</strong> and <strong>Vue.js</strong>. Simultaneously, my backend proficiency encompasses technologies like <strong>Node.js</strong> and <strong>Express.js</strong>, enabling me to architect scalable and efficient server-side systems.
   <br><br>
   I am well-versed in integrating third-party APIs, supporting both <strong>SOAP</strong> and <strong>REST</strong> paradigms. Whether working with monolithic or microservices architectures, I have hands-on experience in designing and optimizing APIs to meet the diverse needs of web applications.
