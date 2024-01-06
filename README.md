@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!--- <img src="photo_2024-01-06_12-01-51.jpg" alt="drawing" />
 <!--   ![alt text](https://github.com/Shrouk-Abdullah/Shrouk-Abdullah/blob/main/photo_2024-01-06_11-32-34.jpg) -->
 
-# 🚀 &nbsp;About Me<p>
+# 🚀 &nbsp;Hello there!<p>
 <p>
   I am a versatile software engineer with a strong foundation in both frontend and backend development. My expertise spans a range of technologies, including <strong>React</strong>, <strong>Node.js</strong>, <strong>Elixir</strong>, and <strong>MongoDB</strong>.
   <br><br>
