@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="photo_2024-01-06_11-32-34.jpg" alt="drawing" style="width:250px;"/>
+<img src="photo_2024-01-06_11-32-34.jpg" alt="drawing" style="width:550px;"/>
 <!--   ![alt text](https://github.com/Shrouk-Abdullah/Shrouk-Abdullah/blob/main/photo_2024-01-06_11-32-34.jpg) -->
 
 </p>
@@ -86,7 +86,10 @@ Here are some ideas to get you started:
 <br>
 
 ###
-###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shrouk-abdullah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 <!--   On the frontend, I specialize in creating engaging and user-friendly interfaces using modern frameworks such as <strong>React</strong> and <strong>Vue.js</strong>. Simultaneously, my backend proficiency encompasses technologies like <strong>Node.js</strong> and <strong>Express.js</strong>, enabling me to architect scalable and efficient server-side systems.
   <br><br>
@@ -100,20 +103,4 @@ Here are some ideas to get you started:
   As a fresh backend developer, I am motivated to contribute to innovative projects, collaborate with experienced professionals, and absorb knowledge from the vibrant community of developers. I look forward to embracing challenges and growing as a valuable member of the software engineering field. -->
 </p>
 
-###
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrouk-abdullah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrouk-abdullah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Shrouk-abdullah&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-<!--   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=shrouk-abdullah" alt="Layout with last medium posts"  /> -->
-</div>
-
-###
