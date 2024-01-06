@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="photo_2024-01-06_12-01-51.jpg" alt="drawing" />
+<!--- <img src="photo_2024-01-06_12-01-51.jpg" alt="drawing" />
 <!--   ![alt text](https://github.com/Shrouk-Abdullah/Shrouk-Abdullah/blob/main/photo_2024-01-06_11-32-34.jpg) -->
 
-## About Me
-<p>
+# 🚀 &nbsp;About Me<p>
 <p>
   I am a versatile software engineer with a strong foundation in both frontend and backend development. My expertise spans a range of technologies, including <strong>React</strong>, <strong>Node.js</strong>, <strong>Elixir</strong>, and <strong>MongoDB</strong>.
   <br><br>
@@ -36,6 +35,8 @@ Here are some ideas to get you started:
   </a> -->
 <!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  /> -->
 </div>
+
+# ⚙️ &nbsp;Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -81,6 +82,7 @@ Here are some ideas to get you started:
 <br>
 
 ###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shrouk-abdullah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
