@@ -2,7 +2,7 @@
 # 🚀 &nbsp;Hello there!<p>
 <p>
   I am a versatile software engineer with a strong foundation in both frontend and backend development. My expertise spans a range of technologies, including <strong>React</strong>, <strong>Node.js</strong>, <strong>Elixir</strong>, and <strong>MongoDB</strong>.
-
+  <br><br>
 </p>
 
 # ⚙️ &nbsp;Tech Stack
