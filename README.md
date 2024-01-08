@@ -1,9 +1,5 @@
 
-# 🚀 &nbsp;Hello there!<p>
-<p>
-  I am a versatile software engineer with a strong foundation in both frontend and backend development. My expertise spans a range of technologies, including <strong>React</strong>, <strong>Node.js</strong>, <strong>Elixir</strong>, and <strong>MongoDB</strong>.
-  <br><br>
-</p>
+
 
 # ⚙️ &nbsp;Tech Stack
 
@@ -53,7 +49,9 @@
 ###
 
 
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shrouk-abdullah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 </p>
 
