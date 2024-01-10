@@ -1,6 +1,4 @@
 
-
-
 # ⚙️ &nbsp;Tech Stack
 
 <div align="left">
